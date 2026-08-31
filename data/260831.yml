@@ -1,0 +1,62 @@
+about:
+  description: Scalable datastore for metrics, events, and real-time analytics
+  license: Apache-2.0
+  homepage: https://influxdata.com
+  head: 693b1fd
+  archived: false
+  latestVersion: v3.10.0
+  collectedAt: 2026-08-31T05:53:02Z
+timeline:
+  created: 2013-09-26
+  lastCommit: 2026-08-17
+  lastRelease: 2026-06-17
+popularity:
+  star: 31732
+  watcher: 701
+  fork: 3718
+  release: 101
+  contributor: 557
+  pullRequest: 1734
+  issue: 14253
+language:
+  Rust: 13827703
+  Answer Set Programming: 229650
+  Python: 155434
+  Linear Programming: 116415
+  Shell: 26969
+  HTML: 9508
+  Dockerfile: 3910
+totalLine: 14369589
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 11
+    openPR: 6
+    closedIssue: 5
+    openIssue: 13
+    commit: 2
+  last90d:
+    since: 2026-06-02
+    release: 1
+    mergedPR: 67
+    openPR: 13
+    closedIssue: 15
+    openIssue: 22
+    commit: 54
+  last180d:
+    since: 2026-03-04
+    release: 6
+    mergedPR: 150
+    openPR: 26
+    closedIssue: 49
+    openIssue: 38
+    commit: 95
+  last360d:
+    since: 2025-09-05
+    release: 7
+    mergedPR: 452
+    openPR: 34
+    closedIssue: 142
+    openIssue: 76
+    commit: 211
