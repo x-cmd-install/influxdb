@@ -7,7 +7,7 @@ about:
   head: 693b1fd
   archived: false
   latestVersion: v3.10.0
-  collectedAt: 2026-09-04T19:52:32Z
+  collectedAt: 2026-09-04T20:51:37Z
 timeline:
   created: 2013-09-26
   lastCommit: 2026-08-17
@@ -86,6 +86,69 @@ total:
   openIssue: 2065
   commit: 49926
 ---
+path: /home/runner/.x-repo/github.com/influxdata/influxdb
+collectedAt: 2026-09-04T20:51:51Z
+loc:
+  Rust:
+    code: 307002
+    comments: 15963
+    blanks: 41156
+    files: 999
+  Toml:
+    code: 2900
+    comments: 298
+    blanks: 395
+    files: 99
+  Protobuf:
+    code: 2839
+    comments: 1925
+    blanks: 997
+    files: 50
+  Python:
+    code: 200
+    comments: 7
+    blanks: 56
+    files: 2
+  Dockerfile:
+    code: 83
+    comments: 4
+    blanks: 22
+    files: 3
+  Html:
+    code: 28
+    comments: 0
+    blanks: 0
+    files: 1
+  Yaml:
+    code: 21
+    comments: 2
+    blanks: 0
+    files: 1
+  Sh:
+    code: 14
+    comments: 3
+    blanks: 3
+    files: 2
+  Sql:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1413
+    blanks: 538
+    files: 19
+  Text:
+    code: 0
+    comments: 474
+    blanks: 61
+    files: 6
+total:
+  code: 313795
+  comments: 42095
+  blanks: 47170
+  files: 1183
 ---
 date: "2026-08-24"
 repo:
