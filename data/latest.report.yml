@@ -5,7 +5,7 @@ about:
   head: 693b1fd
   archived: false
   latestVersion: "v3.10.0"
-  collectedAt: 2026-09-08T02:42:37Z
+  collectedAt: 2026-09-08T05:31:25Z
 timeline:
   created: 2013-09-26
   lastCommit: 2026-08-17
@@ -13,7 +13,7 @@ timeline:
 popularity:
   star: 31732
   watcher: 704
-  fork: 3718
+  fork: 3717
   release: 101
   contributor: 533
   pullRequest: 12829
@@ -85,7 +85,7 @@ total:
   commit: 49926
 ---
 path: /home/runner/.x-repo/github.com/influxdata/influxdb
-collectedAt: 2026-09-08T02:43:14Z
+collectedAt: 2026-09-08T05:32:06Z
 loc:
   Rust:
     code: 307002
