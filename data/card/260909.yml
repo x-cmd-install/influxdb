@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.9.13"
   latestRelease: "v3.9.13"
   latestPrerelease: "v1.8.5rc1"
-  collectedAt: 2026-09-09T05:27:43Z
+  collectedAt: 2026-09-09T19:47:09Z
 timeline:
   created: 2013-09-26
   lastCommit: 2026-08-17
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2021-03-25
 popularity:
-  star: 31728
+  star: 31729
   watcher: 704
   fork: 3716
   release: 106
   contributor: 533
   pullRequest: 12831
-  issue: 14254
+  issue: 14255
 language:
   Rust: 13827703
   Answer Set Programming: 229650
@@ -38,7 +38,7 @@ recent:
     mergedPR: 9
     openPR: 10
     closedIssue: 4
-    openIssue: 13
+    openIssue: 14
     commit: 1
   last60d:
     since: 2026-07-11
@@ -46,7 +46,7 @@ recent:
     mergedPR: 39
     openPR: 15
     closedIssue: 8
-    openIssue: 19
+    openIssue: 20
     commit: 22
   last90d:
     since: 2026-06-11
@@ -54,7 +54,7 @@ recent:
     mergedPR: 61
     openPR: 19
     closedIssue: 15
-    openIssue: 23
+    openIssue: 24
     commit: 31
   last180d:
     since: 2026-03-13
@@ -62,7 +62,7 @@ recent:
     mergedPR: 149
     openPR: 29
     closedIssue: 46
-    openIssue: 37
+    openIssue: 38
     commit: 95
   last360d:
     since: 2025-09-14
@@ -70,7 +70,7 @@ recent:
     mergedPR: 447
     openPR: 40
     closedIssue: 137
-    openIssue: 75
+    openIssue: 76
     commit: 204
   last720d:
     since: 2024-09-19
@@ -78,18 +78,18 @@ recent:
     mergedPR: 1128
     openPR: 60
     closedIssue: 606
-    openIssue: 222
+    openIssue: 223
     commit: 606
 total:
   release: 106
   mergedPR: 11091
   openPR: 98
   closedIssue: 12188
-  openIssue: 2066
+  openIssue: 2067
   commit: 49926
 ---
 path: /home/runner/.x-repo/github.com/influxdata/influxdb
-collectedAt: 2026-09-09T05:28:13Z
+collectedAt: 2026-09-09T19:47:43Z
 loc:
   Rust:
     code: 307002
