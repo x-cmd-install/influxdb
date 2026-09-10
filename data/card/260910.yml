@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.9.13"
   latestRelease: "v3.9.13"
   latestPrerelease: "v1.8.5rc1"
-  collectedAt: 2026-09-10T05:38:45Z
+  collectedAt: 2026-09-10T20:37:38Z
 timeline:
   created: 2013-09-26
   lastCommit: 2026-08-17
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2021-03-25
 popularity:
-  star: 31729
+  star: 31728
   watcher: 704
   fork: 3716
   release: 107
@@ -89,7 +89,7 @@ total:
   commit: 49926
 ---
 path: /home/runner/.x-repo/github.com/influxdata/influxdb
-collectedAt: 2026-09-10T05:39:17Z
+collectedAt: 2026-09-10T20:38:21Z
 loc:
   Rust:
     code: 307002
