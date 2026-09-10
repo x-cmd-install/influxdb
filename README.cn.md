@@ -12,7 +12,7 @@ Scalable datastore for metrics, events, and real-time analytics
 x install influxdb
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **313,088** 行代码（覆盖前 5 种语言、共 **1153** 个文件）。
 
@@ -47,7 +47,7 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,728 · **Fork**: 3,716 · **开放 issue**: 14,255 · **贡献者**: 533
+- **Star**: 31,730 · **Fork**: 3,716 · **开放 issue**: 14,255 · **贡献者**: 533
 
 ## 累计统计
 
@@ -90,4 +90,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:38:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:17:05Z._
