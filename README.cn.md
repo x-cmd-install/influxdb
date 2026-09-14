@@ -47,7 +47,7 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,737 · **Fork**: 3,716 · **开放 issue**: 14,256 · **贡献者**: 533
+- **Star**: 31,738 · **Fork**: 3,717 · **开放 issue**: 14,256 · **贡献者**: 533
 
 ## 累计统计
 
@@ -57,29 +57,12 @@ x install influxdb
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 6 | 7 | 10 | 4 | 14 | 0 |
-| last60d | 2026-07-15 | 6 | 34 | 15 | 7 | 19 | 5 |
-| 90d | 2026-06-15 | 7 | 59 | 18 | 14 | 25 | 22 |
-| last180d | 2026-03-17 | 11 | 148 | 29 | 43 | 39 | 94 |
-| 360d | 2025-09-18 | 13 | 435 | 40 | 135 | 75 | 200 |
-| last720d | 2024-09-23 | 21 | 1124 | 60 | 605 | 224 | 605 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/influxdb) 上共有 **108** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**100** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.6.7~rc0` | ⚠️ outdated |
-| Debian 14 | `1.6.7~rc0` | ⚠️ outdated |
-| Debian 13 | `1.6.7~rc0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
-| Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `3.11.4` | ✅ latest |
-| Nix unstable | `1.12.2` | ⚠️ outdated |
-| Void | `1.8.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
+| 30d | 2026-08-15 | 6 | 7 | 10 | 4 | 14 | 0 |
+| last60d | 2026-07-16 | 6 | 34 | 15 | 6 | 19 | 5 |
+| 90d | 2026-06-16 | 7 | 57 | 18 | 13 | 24 | 22 |
+| last180d | 2026-03-18 | 11 | 144 | 29 | 43 | 39 | 94 |
+| 360d | 2025-09-19 | 13 | 433 | 40 | 135 | 74 | 200 |
+| last720d | 2024-09-24 | 21 | 1122 | 60 | 600 | 223 | 605 |
 
 ## 改进这些数据
 
@@ -90,4 +73,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:54:25Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T05:51:57Z._

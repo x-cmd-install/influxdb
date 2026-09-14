@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,737 · **Forks**: 3,716 · **Open issues**: 14,256 · **Contributors**: 533
+- **Stars**: 31,738 · **Forks**: 3,717 · **Open issues**: 14,256 · **Contributors**: 533
 
 ## Totals (cumulative)
 
@@ -57,29 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 6 | 7 | 10 | 4 | 14 | 0 |
-| last60d | 2026-07-15 | 6 | 34 | 15 | 7 | 19 | 5 |
-| 90d | 2026-06-15 | 7 | 59 | 18 | 14 | 25 | 22 |
-| last180d | 2026-03-17 | 11 | 148 | 29 | 43 | 39 | 94 |
-| 360d | 2025-09-18 | 13 | 435 | 40 | 135 | 75 | 200 |
-| last720d | 2024-09-23 | 21 | 1124 | 60 | 605 | 224 | 605 |
-
-## Distribution status
-
-Reported by **108** distros on [repology.org](https://repology.org/project/influxdb). **2** are ✅ on the latest upstream release, **100** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `1.6.7~rc0` | ⚠️ outdated |
-| Debian 14 | `1.6.7~rc0` | ⚠️ outdated |
-| Debian 13 | `1.6.7~rc0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
-| Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `3.11.4` | ✅ latest |
-| Nix unstable | `1.12.2` | ⚠️ outdated |
-| Void | `1.8.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
+| 30d | 2026-08-15 | 6 | 7 | 10 | 4 | 14 | 0 |
+| last60d | 2026-07-16 | 6 | 34 | 15 | 6 | 19 | 5 |
+| 90d | 2026-06-16 | 7 | 57 | 18 | 13 | 24 | 22 |
+| last180d | 2026-03-18 | 11 | 144 | 29 | 43 | 39 | 94 |
+| 360d | 2025-09-19 | 13 | 433 | 40 | 135 | 74 | 200 |
+| last720d | 2024-09-24 | 21 | 1122 | 60 | 600 | 223 | 605 |
 
 ## Improve this data
 
@@ -90,4 +73,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:54:24Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:51:57Z._
