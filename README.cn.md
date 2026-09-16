@@ -30,8 +30,8 @@ x install influxdb
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -47,22 +47,22 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,740 · **Fork**: 3,718 · **开放 issue**: 14,257 · **贡献者**: 533
+- **Star**: 31,744 · **Fork**: 3,718 · **开放 issue**: 14,256 · **贡献者**: 533
 
 ## 累计统计
 
-- **发布数**: 107 · **已合并 PR**: 11091 · **开放 PR**: 97 · **已关闭 issue**: 12188 · **开放 issue**: 2069 · **提交数**: 49926
+- **发布数**: 107 · **已合并 PR**: 11091 · **开放 PR**: 98 · **已关闭 issue**: 12188 · **开放 issue**: 2068 · **提交数**: 49926
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 6 | 7 | 10 | 4 | 15 | 0 |
-| last60d | 2026-07-17 | 6 | 33 | 15 | 6 | 19 | 5 |
-| 90d | 2026-06-17 | 7 | 53 | 17 | 13 | 25 | 22 |
-| last180d | 2026-03-19 | 11 | 144 | 29 | 41 | 40 | 94 |
-| 360d | 2025-09-20 | 13 | 433 | 40 | 135 | 75 | 200 |
-| last720d | 2024-09-25 | 21 | 1118 | 60 | 594 | 222 | 603 |
+| 30d | 2026-08-17 | 6 | 7 | 11 | 3 | 14 | 0 |
+| last60d | 2026-07-18 | 6 | 33 | 16 | 6 | 18 | 5 |
+| 90d | 2026-06-18 | 6 | 53 | 18 | 13 | 23 | 22 |
+| last180d | 2026-03-20 | 11 | 143 | 30 | 41 | 39 | 94 |
+| 360d | 2025-09-21 | 13 | 433 | 41 | 135 | 74 | 200 |
+| last720d | 2024-09-26 | 21 | 1118 | 61 | 590 | 221 | 602 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T05:49:50Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T05:53:13Z._

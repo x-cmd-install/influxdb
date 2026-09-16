@@ -30,8 +30,8 @@ Overall score: **6.9 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,740 · **Forks**: 3,718 · **Open issues**: 14,257 · **Contributors**: 533
+- **Stars**: 31,744 · **Forks**: 3,718 · **Open issues**: 14,256 · **Contributors**: 533
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 11091 · **Open PRs**: 97 · **Closed issues**: 12188 · **Open issues**: 2069 · **Commits**: 49926
+- **Releases**: 107 · **Merged PRs**: 11091 · **Open PRs**: 98 · **Closed issues**: 12188 · **Open issues**: 2068 · **Commits**: 49926
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 6 | 7 | 10 | 4 | 15 | 0 |
-| last60d | 2026-07-17 | 6 | 33 | 15 | 6 | 19 | 5 |
-| 90d | 2026-06-17 | 7 | 53 | 17 | 13 | 25 | 22 |
-| last180d | 2026-03-19 | 11 | 144 | 29 | 41 | 40 | 94 |
-| 360d | 2025-09-20 | 13 | 433 | 40 | 135 | 75 | 200 |
-| last720d | 2024-09-25 | 21 | 1118 | 60 | 594 | 222 | 603 |
+| 30d | 2026-08-17 | 6 | 7 | 11 | 3 | 14 | 0 |
+| last60d | 2026-07-18 | 6 | 33 | 16 | 6 | 18 | 5 |
+| 90d | 2026-06-18 | 6 | 53 | 18 | 13 | 23 | 22 |
+| last180d | 2026-03-20 | 11 | 143 | 30 | 41 | 39 | 94 |
+| 360d | 2025-09-21 | 13 | 433 | 41 | 135 | 74 | 200 |
+| last720d | 2024-09-26 | 21 | 1118 | 61 | 590 | 221 | 602 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:49:49Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:53:13Z._
