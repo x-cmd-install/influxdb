@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,744 · **Forks**: 3,718 · **Open issues**: 14,256 · **Contributors**: 533
+- **Stars**: 31,744 · **Forks**: 3,718 · **Open issues**: 14,266 · **Contributors**: 533
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 11091 · **Open PRs**: 98 · **Closed issues**: 12188 · **Open issues**: 2068 · **Commits**: 49926
+- **Releases**: 107 · **Merged PRs**: 11091 · **Open PRs**: 98 · **Closed issues**: 12188 · **Open issues**: 2078 · **Commits**: 49926
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 6 | 7 | 11 | 3 | 14 | 0 |
-| last60d | 2026-07-18 | 6 | 33 | 16 | 6 | 18 | 5 |
-| 90d | 2026-06-18 | 6 | 53 | 18 | 13 | 23 | 22 |
-| last180d | 2026-03-20 | 11 | 143 | 30 | 41 | 39 | 94 |
-| 360d | 2025-09-21 | 13 | 433 | 41 | 135 | 74 | 200 |
-| last720d | 2024-09-26 | 21 | 1118 | 61 | 590 | 221 | 602 |
+| 30d | 2026-08-18 | 6 | 7 | 10 | 3 | 22 | 0 |
+| last60d | 2026-07-19 | 6 | 33 | 16 | 6 | 28 | 5 |
+| 90d | 2026-06-19 | 6 | 53 | 18 | 13 | 33 | 22 |
+| last180d | 2026-03-21 | 11 | 143 | 30 | 41 | 49 | 94 |
+| 360d | 2025-09-22 | 13 | 430 | 41 | 135 | 83 | 200 |
+| last720d | 2024-09-27 | 21 | 1114 | 61 | 587 | 230 | 602 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:53:13Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:55:52Z._
