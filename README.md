@@ -4,7 +4,7 @@
 
 Scalable datastore for metrics, events, and real-time analytics
 
-![influxdb](https://repo.x-cmd.io/influxdb.svg)
+[![x-cmd/install — influxdb Code Quality Monitoring Repo Card](https://repo.x-cmd.io/influxdb.svg)](https://x-cmd.com/install/influxdb)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install influxdb
 
 ## Code insight
 
-Total: **313,088** lines of code across **1153** files in the top 5 languages.
+Total: **322,729** lines of code across **1176** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 307,002 | 15,963 | 41,156 | 999 |
-| Toml | 2,900 | 298 | 395 | 99 |
+| Rust | 316,774 | 16,732 | 42,223 | 1022 |
+| Toml | 2,890 | 248 | 405 | 100 |
 | Protobuf | 2,839 | 1,925 | 997 | 50 |
-| Python | 200 | 7 | 56 | 2 |
+| Python | 107 | 6 | 31 | 1 |
 | Dockerfile | 83 | 4 | 22 | 3 |
 
 ## OpenSSF Scorecard
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.9.13` (2026-09-08)
-- **Last commit**: 2026-08-17
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 31,748 · **Forks**: 3,718 · **Open issues**: 14,266 · **Contributors**: 533
+- **Stars**: 31,747 · **Forks**: 3,717 · **Open issues**: 14,268 · **Contributors**: 533
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 11092 · **Open PRs**: 101 · **Closed issues**: 12188 · **Open issues**: 2078 · **Commits**: 49926
+- **Releases**: 107 · **Merged PRs**: 11094 · **Open PRs**: 110 · **Closed issues**: 12188 · **Open issues**: 2080 · **Commits**: 49927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 8 | 13 | 2 | 22 | 0 |
-| last60d | 2026-07-20 | 6 | 34 | 19 | 6 | 28 | 5 |
-| 90d | 2026-06-20 | 6 | 54 | 21 | 12 | 33 | 22 |
-| last180d | 2026-03-22 | 11 | 144 | 33 | 41 | 49 | 94 |
-| 360d | 2025-09-23 | 13 | 428 | 44 | 135 | 83 | 200 |
-| last720d | 2024-09-28 | 21 | 1115 | 64 | 587 | 230 | 599 |
+| 30d | 2026-08-21 | 6 | 7 | 22 | 2 | 24 | 25 |
+| last60d | 2026-07-22 | 6 | 29 | 28 | 5 | 30 | 28 |
+| 90d | 2026-06-22 | 6 | 55 | 30 | 12 | 35 | 47 |
+| last180d | 2026-03-24 | 11 | 142 | 41 | 39 | 50 | 101 |
+| 360d | 2025-09-25 | 13 | 420 | 53 | 134 | 85 | 210 |
+| last720d | 2024-09-30 | 21 | 1116 | 73 | 586 | 232 | 600 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:45:49Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:51:17Z._
