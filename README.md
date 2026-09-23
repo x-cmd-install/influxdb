@@ -4,7 +4,7 @@
 
 Scalable datastore for metrics, events, and real-time analytics
 
-[![x-cmd/install — influxdb Code Quality Monitoring Repo Card](https://repo.x-cmd.io/influxdb.svg)](https://x-cmd.com/install/influxdb)
+[![x-cmd/install — influxdb Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/influxdb.svg)](https://x-cmd.com/install/influxdb)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,752 · **Forks**: 3,717 · **Open issues**: 14,271 · **Contributors**: 533
+- **Stars**: 31,755 · **Forks**: 3,717 · **Open issues**: 14,272 · **Contributors**: 533
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 11097 · **Open PRs**: 110 · **Closed issues**: 12188 · **Open issues**: 2083 · **Commits**: 49927
+- **Releases**: 107 · **Merged PRs**: 11103 · **Open PRs**: 105 · **Closed issues**: 12194 · **Open issues**: 2078 · **Commits**: 49927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 6 | 10 | 23 | 2 | 27 | 25 |
-| last60d | 2026-07-24 | 6 | 25 | 28 | 5 | 33 | 28 |
-| 90d | 2026-06-24 | 6 | 56 | 31 | 11 | 38 | 47 |
-| last180d | 2026-03-26 | 11 | 143 | 41 | 38 | 53 | 101 |
-| 360d | 2025-09-27 | 13 | 408 | 53 | 134 | 87 | 210 |
-| last720d | 2024-10-02 | 21 | 1114 | 73 | 584 | 235 | 595 |
+| 30d | 2026-08-24 | 6 | 16 | 19 | 7 | 22 | 25 |
+| last60d | 2026-07-25 | 6 | 31 | 23 | 11 | 28 | 28 |
+| 90d | 2026-06-25 | 6 | 59 | 27 | 16 | 32 | 47 |
+| last180d | 2026-03-27 | 11 | 146 | 36 | 44 | 48 | 101 |
+| 360d | 2025-09-28 | 13 | 413 | 48 | 140 | 81 | 210 |
+| last720d | 2024-10-03 | 21 | 1117 | 68 | 587 | 230 | 593 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:50:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:50:40Z._
