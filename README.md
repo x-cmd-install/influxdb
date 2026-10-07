@@ -26,7 +26,7 @@ Total: **322,729** lines of code across **1176** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,759 · **Forks**: 3,718 · **Open issues**: 14,276 · **Contributors**: 533
+- **Stars**: 31,759 · **Forks**: 3,720 · **Open issues**: 14,276 · **Contributors**: 533
 
 ## Totals (cumulative)
 
-- **Releases**: 107 · **Merged PRs**: 11128 · **Open PRs**: 103 · **Closed issues**: 12208 · **Open issues**: 2068 · **Commits**: 49927
+- **Releases**: 107 · **Merged PRs**: 11128 · **Open PRs**: 104 · **Closed issues**: 12208 · **Open issues**: 2068 · **Commits**: 49927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 6 | 32 | 17 | 13 | 10 | 25 |
-| last60d | 2026-08-07 | 6 | 45 | 21 | 17 | 22 | 26 |
-| 90d | 2026-07-08 | 6 | 76 | 23 | 22 | 27 | 47 |
-| last180d | 2026-04-09 | 10 | 154 | 32 | 43 | 40 | 98 |
-| 360d | 2025-10-11 | 13 | 404 | 46 | 143 | 70 | 202 |
-| last720d | 2024-10-16 | 21 | 1127 | 65 | 589 | 209 | 578 |
+| 30d | 2026-09-07 | 6 | 32 | 17 | 13 | 9 | 25 |
+| last60d | 2026-08-08 | 6 | 45 | 22 | 17 | 22 | 26 |
+| 90d | 2026-07-09 | 6 | 76 | 24 | 22 | 27 | 47 |
+| last180d | 2026-04-10 | 10 | 153 | 33 | 43 | 40 | 98 |
+| 360d | 2025-10-12 | 13 | 404 | 47 | 143 | 70 | 202 |
+| last720d | 2024-10-17 | 21 | 1125 | 66 | 587 | 208 | 577 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:05:42Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T06:36:39Z._
