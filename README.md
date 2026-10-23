@@ -14,11 +14,11 @@ x install influxdb
 
 ## Code insight
 
-Total: **322,729** lines of code across **1176** files in the top 5 languages.
+Total: **322,857** lines of code across **1177** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 316,774 | 16,732 | 42,223 | 1022 |
+| Rust | 316,902 | 16,732 | 42,233 | 1023 |
 | Toml | 2,890 | 248 | 405 | 100 |
 | Protobuf | 2,839 | 1,925 | 997 | 50 |
 | Python | 107 | 6 | 31 | 1 |
@@ -43,26 +43,43 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.12.1` (2026-10-15)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 31,775 · **Forks**: 3,755 · **Open issues**: 14,282 · **Contributors**: 534
+- **Stars**: 31,777 · **Forks**: 3,728 · **Open issues**: 14,282 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 11138 · **Open PRs**: 110 · **Closed issues**: 12210 · **Open issues**: 2072 · **Commits**: 49927
+- **Releases**: 111 · **Merged PRs**: 11140 · **Open PRs**: 110 · **Closed issues**: 12211 · **Open issues**: 2071 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 4 | 29 | 14 | 2 | 6 | 0 |
-| last60d | 2026-08-23 | 10 | 49 | 29 | 16 | 23 | 25 |
-| 90d | 2026-07-24 | 10 | 66 | 31 | 20 | 28 | 28 |
-| last180d | 2026-04-25 | 13 | 152 | 40 | 39 | 42 | 89 |
-| 360d | 2025-10-27 | 17 | 396 | 53 | 137 | 70 | 191 |
-| last720d | 2024-11-01 | 25 | 1116 | 72 | 576 | 207 | 569 |
+| 30d | 2026-09-23 | 4 | 28 | 14 | 3 | 5 | 2 |
+| last60d | 2026-08-24 | 10 | 51 | 29 | 16 | 22 | 27 |
+| 90d | 2026-07-25 | 10 | 68 | 30 | 21 | 27 | 30 |
+| last180d | 2026-04-26 | 13 | 154 | 40 | 40 | 39 | 91 |
+| 360d | 2025-10-28 | 17 | 389 | 53 | 136 | 69 | 193 |
+| last720d | 2024-11-02 | 25 | 1118 | 72 | 577 | 206 | 567 |
+
+## Distribution status
+
+Reported by **103** distros on [repology.org](https://repology.org/project/influxdb). **3** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.6.7~rc0` | ⚠️ outdated |
+| Debian 14 | `1.6.7~rc0` | ⚠️ outdated |
+| Debian 13 | `1.6.7~rc0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
+| Arch | `2.9.1` | ⚠️ outdated |
+| Homebrew | `3.12.1` | ✅ latest |
+| Nix unstable | `1.12.2` | ⚠️ outdated |
+| Void | `1.8.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:22:47Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:25:43Z._
