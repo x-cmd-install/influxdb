@@ -4,24 +4,24 @@ about:
   homepage: https://influxdata.com
   head: 185688a
   archived: false
-  latestVersion: "v3.12.1"
-  latestRelease: "v3.12.1"
+  latestVersion: "v1.13.2"
+  latestRelease: "v1.13.2"
   latestPrerelease: "v1.8.5rc1"
-  collectedAt: 2026-10-30T06:42:34Z
+  collectedAt: 2026-10-31T06:23:50Z
 timeline:
   created: 2013-09-26
   lastCommit: 2026-10-22
-  lastVersion: 2026-10-15
-  lastRelease: 2026-10-15
+  lastVersion: 2026-10-30
+  lastRelease: 2026-10-30
   lastPrerelease: 2021-03-25
 popularity:
-  star: 31789
-  watcher: 696
-  fork: 3809
-  release: 111
+  star: 31791
+  watcher: 697
+  fork: 3819
+  release: 112
   contributor: 536
-  pullRequest: 12909
-  issue: 14285
+  pullRequest: 12914
+  issue: 14288
 language:
   Rust: 14371105
   Answer Set Programming: 346065
@@ -31,63 +31,63 @@ language:
 totalBytes: 14905253
 recent:
   last30d:
-    since: 2026-09-30
-    release: 4
-    mergedPR: 25
-    openPR: 15
+    since: 2026-10-01
+    release: 5
+    mergedPR: 21
+    openPR: 20
     closedIssue: 4
-    openIssue: 6
+    openIssue: 9
     commit: 2
   last60d:
-    since: 2026-08-31
-    release: 10
-    mergedPR: 56
-    openPR: 17
+    since: 2026-09-01
+    release: 11
+    mergedPR: 54
+    openPR: 21
     closedIssue: 17
-    openIssue: 14
+    openIssue: 17
     commit: 27
   last90d:
-    since: 2026-08-01
-    release: 10
+    since: 2026-08-02
+    release: 11
     mergedPR: 69
-    openPR: 20
+    openPR: 25
     closedIssue: 24
-    openIssue: 25
+    openIssue: 28
     commit: 29
   last180d:
-    since: 2026-05-03
-    release: 12
+    since: 2026-05-04
+    release: 13
     mergedPR: 143
-    openPR: 28
-    closedIssue: 43
-    openIssue: 36
+    openPR: 33
+    closedIssue: 42
+    openIssue: 38
     commit: 82
   last360d:
-    since: 2025-11-04
-    release: 17
+    since: 2025-11-05
+    release: 18
     mergedPR: 390
-    openPR: 41
+    openPR: 46
     closedIssue: 140
-    openIssue: 65
+    openIssue: 68
     commit: 192
   last720d:
-    since: 2024-11-09
-    release: 25
+    since: 2024-11-10
+    release: 26
     mergedPR: 1115
-    openPR: 62
+    openPR: 67
     closedIssue: 575
-    openIssue: 205
+    openIssue: 208
     commit: 560
 total:
-  release: 111
+  release: 112
   mergedPR: 11147
-  openPR: 100
+  openPR: 105
   closedIssue: 12215
-  openIssue: 2070
+  openIssue: 2073
   commit: 49928
 ---
 path: /home/runner/.x-repo/github.com/influxdata/influxdb
-collectedAt: 2026-10-30T06:43:05Z
+collectedAt: 2026-10-31T06:24:19Z
 loc:
   Rust:
     code: 316902
