@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.12.1` (2026-10-15)
+- **Latest**: `v1.13.2` (2026-10-30)
 - **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 31,789 · **Forks**: 3,809 · **Open issues**: 14,285 · **Contributors**: 536
+- **Stars**: 31,791 · **Forks**: 3,819 · **Open issues**: 14,288 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 111 · **Merged PRs**: 11147 · **Open PRs**: 100 · **Closed issues**: 12215 · **Open issues**: 2070 · **Commits**: 49928
+- **Releases**: 112 · **Merged PRs**: 11147 · **Open PRs**: 105 · **Closed issues**: 12215 · **Open issues**: 2073 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 4 | 25 | 15 | 4 | 6 | 2 |
-| last60d | 2026-08-31 | 10 | 56 | 17 | 17 | 14 | 27 |
-| 90d | 2026-08-01 | 10 | 69 | 20 | 24 | 25 | 29 |
-| last180d | 2026-05-03 | 12 | 143 | 28 | 43 | 36 | 82 |
-| 360d | 2025-11-04 | 17 | 390 | 41 | 140 | 65 | 192 |
-| last720d | 2024-11-09 | 25 | 1115 | 62 | 575 | 205 | 560 |
+| 30d | 2026-10-01 | 5 | 21 | 20 | 4 | 9 | 2 |
+| last60d | 2026-09-01 | 11 | 54 | 21 | 17 | 17 | 27 |
+| 90d | 2026-08-02 | 11 | 69 | 25 | 24 | 28 | 29 |
+| last180d | 2026-05-04 | 13 | 143 | 33 | 42 | 38 | 82 |
+| 360d | 2025-11-05 | 18 | 390 | 46 | 140 | 68 | 192 |
+| last720d | 2024-11-10 | 26 | 1115 | 67 | 575 | 208 | 560 |
 
 ## Distribution status
 
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:43:10Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:24:24Z._
