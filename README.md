@@ -26,13 +26,13 @@ Total: **322,857** lines of code across **1177** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.3 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,797 · **Forks**: 3,857 · **Open issues**: 14,288 · **Contributors**: 536
+- **Stars**: 31,797 · **Forks**: 3,830 · **Open issues**: 14,288 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 11150 · **Open PRs**: 103 · **Closed issues**: 12215 · **Open issues**: 2073 · **Commits**: 49928
+- **Releases**: 114 · **Merged PRs**: 11150 · **Open PRs**: 104 · **Closed issues**: 12215 · **Open issues**: 2073 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 7 | 24 | 15 | 3 | 8 | 2 |
-| last60d | 2026-09-04 | 13 | 54 | 19 | 17 | 17 | 27 |
-| 90d | 2026-08-05 | 13 | 71 | 23 | 23 | 28 | 29 |
-| last180d | 2026-05-07 | 15 | 144 | 30 | 39 | 38 | 82 |
-| 360d | 2025-11-08 | 20 | 391 | 44 | 139 | 67 | 190 |
-| last720d | 2024-11-13 | 28 | 1111 | 65 | 561 | 205 | 558 |
+| 30d | 2026-10-05 | 7 | 22 | 16 | 3 | 8 | 2 |
+| last60d | 2026-09-05 | 13 | 54 | 20 | 17 | 17 | 27 |
+| 90d | 2026-08-06 | 13 | 68 | 24 | 22 | 28 | 29 |
+| last180d | 2026-05-08 | 15 | 143 | 31 | 39 | 37 | 82 |
+| 360d | 2025-11-09 | 20 | 391 | 45 | 139 | 67 | 190 |
+| last720d | 2024-11-14 | 28 | 1110 | 66 | 561 | 205 | 558 |
 
 ## Distribution status
 
@@ -77,7 +77,7 @@ Reported by **103** distros on [repology.org](https://repology.org/project/influ
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
 | Homebrew | `3.12.2` | ✅ latest |
-| Nix unstable | `2.7.12` | ⚠️ outdated |
+| Nix unstable | `1.12.2` | ⚠️ outdated |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
 
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:35:53Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:10:30Z._

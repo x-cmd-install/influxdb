@@ -26,13 +26,13 @@ x install influxdb
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.3 / 10**
+总评分: **6.2 / 10**
 
 评分最低的几项:
 
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
 
@@ -47,22 +47,22 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,797 · **Fork**: 3,857 · **开放 issue**: 14,288 · **贡献者**: 536
+- **Star**: 31,797 · **Fork**: 3,830 · **开放 issue**: 14,288 · **贡献者**: 536
 
 ## 累计统计
 
-- **发布数**: 114 · **已合并 PR**: 11150 · **开放 PR**: 103 · **已关闭 issue**: 12215 · **开放 issue**: 2073 · **提交数**: 49928
+- **发布数**: 114 · **已合并 PR**: 11150 · **开放 PR**: 104 · **已关闭 issue**: 12215 · **开放 issue**: 2073 · **提交数**: 49928
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 7 | 24 | 15 | 3 | 8 | 2 |
-| last60d | 2026-09-04 | 13 | 54 | 19 | 17 | 17 | 27 |
-| 90d | 2026-08-05 | 13 | 71 | 23 | 23 | 28 | 29 |
-| last180d | 2026-05-07 | 15 | 144 | 30 | 39 | 38 | 82 |
-| 360d | 2025-11-08 | 20 | 391 | 44 | 139 | 67 | 190 |
-| last720d | 2024-11-13 | 28 | 1111 | 65 | 561 | 205 | 558 |
+| 30d | 2026-10-05 | 7 | 22 | 16 | 3 | 8 | 2 |
+| last60d | 2026-09-05 | 13 | 54 | 20 | 17 | 17 | 27 |
+| 90d | 2026-08-06 | 13 | 68 | 24 | 22 | 28 | 29 |
+| last180d | 2026-05-08 | 15 | 143 | 31 | 39 | 37 | 82 |
+| 360d | 2025-11-09 | 20 | 391 | 45 | 139 | 67 | 190 |
+| last720d | 2024-11-14 | 28 | 1110 | 66 | 561 | 205 | 558 |
 
 ## 发行版状态
 
@@ -77,7 +77,7 @@ x install influxdb
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
 | Homebrew | `3.12.2` | ✅ latest |
-| Nix unstable | `2.7.12` | ⚠️ outdated |
+| Nix unstable | `1.12.2` | ⚠️ outdated |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
 
@@ -90,4 +90,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:35:54Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:10:30Z._
