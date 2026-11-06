@@ -1,3 +1,28 @@
+- repo: chocolatey
+  binname: influxdb1
+  visiblename: InfluxDB
+  version: 1.8.10
+  origversion: null
+  status: outdated
+  summary: Scalable datastore for metrics, events, and real-time analytics
+- repo: chocolatey
+  binname: influxdb
+  visiblename: InfluxDB
+  version: 1.8.10
+  origversion: null
+  status: outdated
+  summary: Scalable datastore for metrics, events, and real-time analytics
+- repo: nix_stable_24_11
+  srcname: influxdb2-server
+  visiblename: influxdb
+  version: 2.7.6
+  origversion: null
+  status: outdated
+  summary: Open-source distributed time series database
+  maintainers:
+    - ab@fmap.me
+  licenses:
+    - MIT
 - repo: alpine_3_17
   subrepo: community
   srcname: influxdb
@@ -150,20 +175,6 @@
     - Apache-2.0
     - MIT
 - repo: chocolatey
-  binname: influxdb
-  visiblename: InfluxDB
-  version: 1.8.10
-  origversion: null
-  status: outdated
-  summary: Scalable datastore for metrics, events, and real-time analytics
-- repo: chocolatey
-  binname: influxdb1
-  visiblename: InfluxDB
-  version: 1.8.10
-  origversion: null
-  status: outdated
-  summary: Scalable datastore for metrics, events, and real-time analytics
-- repo: chocolatey
   binname: influxdb2
   visiblename: InfluxDB
   version: 2.1.1
@@ -233,17 +244,6 @@
     - MPL-2.0
   categories:
     - dev-db
-- repo: nix_stable_26_05
-  srcname: influxdb
-  visiblename: influxdb
-  version: 1.12.2
-  origversion: null
-  status: outdated
-  summary: Open-source distributed time series database
-  maintainers:
-    - zimbatm@zimbatm.com
-  licenses:
-    - MIT
 - repo: gentoo
   srcname: dev-db/influxdb
   visiblename: dev-db/influxdb
@@ -263,6 +263,30 @@
     - MPL-2.0
   categories:
     - dev-db
+- repo: nix_unstable
+  srcname: influxdb3
+  visiblename: influxdb3
+  version: 3.8.3
+  origversion: null
+  status: outdated
+  summary: Scalable datastore for metrics, events, and real-time analytics
+  maintainers:
+    - oddlama@oddlama.org
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: openbsd
+  srcname: databases/influxdb
+  binname: influxdb
+  visiblename: databases/influxdb
+  version: 2.7.12
+  origversion: null
+  status: outdated
+  summary: time-series datastore for metrics, events, and analytics
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - databases
 - repo: gentoo
   srcname: dev-db/influxdb
   visiblename: dev-db/influxdb
@@ -386,6 +410,17 @@
     - MPL-2.0
   categories:
     - dev-db
+- repo: openpkg_current
+  srcname: influxdb
+  visiblename: influxdb
+  version: 2.7.1.20230430
+  origversion: null
+  status: outdated
+  summary: Time-Series Database Server
+  licenses:
+    - MIT
+  categories:
+    - Database
 - repo: liguros_develop
   srcname: dev-db/influxdb
   visiblename: dev-db/influxdb
@@ -506,17 +541,6 @@
     - zimbatm@zimbatm.com
   licenses:
     - MIT
-- repo: nix_stable_24_11
-  srcname: influxdb2-server
-  visiblename: influxdb
-  version: 2.7.6
-  origversion: null
-  status: outdated
-  summary: Open-source distributed time series database
-  maintainers:
-    - ab@fmap.me
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: influxdb
   visiblename: influxdb
@@ -588,6 +612,17 @@
     - Apache-2.0
     - MIT
 - repo: nix_stable_26_05
+  srcname: influxdb
+  visiblename: influxdb
+  version: 1.12.2
+  origversion: null
+  status: outdated
+  summary: Open-source distributed time series database
+  maintainers:
+    - zimbatm@zimbatm.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
   srcname: influxdb2-server
   visiblename: influxdb
   version: 2.7.12
@@ -632,41 +667,6 @@
     - fallback-mnt-nix@repology
   licenses:
     - MIT
-- repo: nix_unstable
-  srcname: influxdb3
-  visiblename: influxdb3
-  version: 3.8.3
-  origversion: null
-  status: outdated
-  summary: Scalable datastore for metrics, events, and real-time analytics
-  maintainers:
-    - oddlama@oddlama.org
-  licenses:
-    - Apache-2.0
-    - MIT
-- repo: openbsd
-  srcname: databases/influxdb
-  binname: influxdb
-  visiblename: databases/influxdb
-  version: 2.7.12
-  origversion: null
-  status: outdated
-  summary: time-series datastore for metrics, events, and analytics
-  maintainers:
-    - ports@openbsd.org
-  categories:
-    - databases
-- repo: openpkg_current
-  srcname: influxdb
-  visiblename: influxdb
-  version: 2.7.1.20230430
-  origversion: null
-  status: outdated
-  summary: Time-Series Database Server
-  licenses:
-    - MIT
-  categories:
-    - Database
 - repo: opensuse_leap_15_5
   subrepo: main/oss
   srcname: influxdb
@@ -859,6 +859,60 @@
   summary: open source software, a time series db platform
   licenses:
     - MIT License
+- repo: raspbian_stable
+  subrepo: main
+  srcname: influxdb
+  binnames:
+    - golang-github-influxdb-influxdb-dev
+    - influxdb
+    - influxdb-client
+  visiblename: influxdb
+  version: 1.6.7~rc0
+  origversion: 1.6.7~rc0-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - aviau@debian.org
+    - tpot@hpe.com
+  categories:
+    - misc
+  vulnerable: true
+- repo: raspbian_testing
+  subrepo: main
+  srcname: influxdb
+  binnames:
+    - golang-github-influxdb-influxdb-dev
+    - influxdb
+    - influxdb-client
+  visiblename: influxdb
+  version: 1.6.7~rc0
+  origversion: 1.6.7~rc0-2
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - aviau@debian.org
+    - tpot@hpe.com
+  categories:
+    - misc
+  vulnerable: true
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: influxdb
+  binnames:
+    - golang-github-influxdb-influxdb-dev
+    - influxdb
+    - influxdb-client
+  visiblename: influxdb
+  version: 1.6.7~rc0
+  origversion: 1.6.7~rc0-1
+  status: outdated
+  maintainers:
+    - team+pkg-go@tracker.debian.org
+    - aviau@debian.org
+    - tpot@hpe.com
+  categories:
+    - misc
+  vulnerable: true
 - repo: debian_11
   subrepo: bullseye/main
   srcname: influxdb
@@ -1069,7 +1123,7 @@
     - misc
   vulnerable: true
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: influxdb
   binnames:
     - golang-github-influxdb-influxdb-dev
@@ -1087,7 +1141,7 @@
     - misc
   vulnerable: true
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: influxdb
   binnames:
     - golang-github-influxdb-influxdb-dev
@@ -1158,60 +1212,6 @@
   categories:
     - database
   vulnerable: true
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: influxdb
-  binnames:
-    - golang-github-influxdb-influxdb-dev
-    - influxdb
-    - influxdb-client
-  visiblename: influxdb
-  version: 1.6.7~rc0
-  origversion: 1.6.7~rc0-1
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - aviau@debian.org
-    - tpot@hpe.com
-  categories:
-    - misc
-  vulnerable: true
-- repo: raspbian_stable
-  subrepo: main
-  srcname: influxdb
-  binnames:
-    - golang-github-influxdb-influxdb-dev
-    - influxdb
-    - influxdb-client
-  visiblename: influxdb
-  version: 1.6.7~rc0
-  origversion: 1.6.7~rc0-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - aviau@debian.org
-    - tpot@hpe.com
-  categories:
-    - misc
-  vulnerable: true
-- repo: raspbian_testing
-  subrepo: main
-  srcname: influxdb
-  binnames:
-    - golang-github-influxdb-influxdb-dev
-    - influxdb
-    - influxdb-client
-  visiblename: influxdb
-  version: 1.6.7~rc0
-  origversion: 1.6.7~rc0-2
-  status: outdated
-  maintainers:
-    - team+pkg-go@tracker.debian.org
-    - aviau@debian.org
-    - tpot@hpe.com
-  categories:
-    - misc
-  vulnerable: true
 - repo: slackbuilds
   srcname: system/influxdb
   visiblename: system/influxdb
@@ -1280,24 +1280,6 @@
     - universe/misc
   vulnerable: true
 - repo: ubuntu_20_04
-  subrepo: focal-updates/universe
-  srcname: influxdb
-  binnames:
-    - golang-github-influxdb-influxdb-dev
-    - influxdb
-    - influxdb-client
-  visiblename: influxdb
-  version: 1.6.4
-  origversion: 1.6.4-1+deb10u1ubuntu0.2
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-    - aviau@debian.org
-    - tpot@hpe.com
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_20_04
   subrepo: focal/universe
   srcname: influxdb
   binnames:
@@ -1310,6 +1292,24 @@
   status: outdated
   maintainers:
     - pkg-go-maintainers@lists.alioth.debian.org
+    - aviau@debian.org
+    - tpot@hpe.com
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal-updates/universe
+  srcname: influxdb
+  binnames:
+    - golang-github-influxdb-influxdb-dev
+    - influxdb
+    - influxdb-client
+  visiblename: influxdb
+  version: 1.6.4
+  origversion: 1.6.4-1+deb10u1ubuntu0.2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
     - aviau@debian.org
     - tpot@hpe.com
   categories:
