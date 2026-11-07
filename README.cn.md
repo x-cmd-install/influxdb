@@ -47,7 +47,7 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,802 · **Fork**: 3,825 · **开放 issue**: 14,290 · **贡献者**: 536
+- **Star**: 31,803 · **Fork**: 3,825 · **开放 issue**: 14,290 · **贡献者**: 536
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install influxdb
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 7 | 24 | 13 | 3 | 10 | 2 |
-| last60d | 2026-09-07 | 13 | 56 | 19 | 17 | 18 | 27 |
-| 90d | 2026-08-08 | 13 | 69 | 24 | 22 | 30 | 29 |
-| last180d | 2026-05-10 | 15 | 145 | 31 | 39 | 39 | 82 |
-| 360d | 2025-11-11 | 20 | 393 | 45 | 140 | 68 | 190 |
-| last720d | 2024-11-16 | 28 | 1109 | 66 | 560 | 206 | 558 |
+| 30d | 2026-10-08 | 7 | 23 | 13 | 3 | 9 | 2 |
+| last60d | 2026-09-08 | 13 | 56 | 19 | 17 | 18 | 27 |
+| 90d | 2026-08-09 | 13 | 69 | 24 | 22 | 30 | 29 |
+| last180d | 2026-05-11 | 15 | 142 | 31 | 39 | 39 | 82 |
+| 360d | 2025-11-12 | 20 | 392 | 45 | 138 | 66 | 190 |
+| last720d | 2024-11-17 | 28 | 1109 | 66 | 559 | 206 | 558 |
 
 ## 发行版状态
 
@@ -76,8 +76,8 @@ x install influxdb
 | Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `3.12.2` | ✅ latest |
-| Nix unstable | `3.8.3` | ⚠️ outdated |
+| Homebrew | `2.10.0` | 🪦 legacy |
+| Nix unstable | `1.12.2` | ⚠️ outdated |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
 
@@ -90,4 +90,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261106.yml` · 2026-11-06T07:20:53Z._
+_数据快照: `data/card/261107.yml` · 2026-11-07T06:45:44Z._
