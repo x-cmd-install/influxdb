@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,803 · **Forks**: 3,825 · **Open issues**: 14,290 · **Contributors**: 536
+- **Stars**: 31,803 · **Forks**: 3,822 · **Open issues**: 14,290 · **Contributors**: 536
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 7 | 23 | 13 | 3 | 9 | 2 |
-| last60d | 2026-09-08 | 13 | 56 | 19 | 17 | 18 | 27 |
-| 90d | 2026-08-09 | 13 | 69 | 24 | 22 | 30 | 29 |
-| last180d | 2026-05-11 | 15 | 142 | 31 | 39 | 39 | 82 |
-| 360d | 2025-11-12 | 20 | 392 | 45 | 138 | 66 | 190 |
-| last720d | 2024-11-17 | 28 | 1109 | 66 | 559 | 206 | 558 |
+| 30d | 2026-10-09 | 7 | 22 | 11 | 3 | 9 | 2 |
+| last60d | 2026-09-09 | 8 | 56 | 19 | 17 | 17 | 27 |
+| 90d | 2026-08-10 | 13 | 68 | 24 | 22 | 30 | 28 |
+| last180d | 2026-05-12 | 15 | 142 | 31 | 39 | 39 | 82 |
+| 360d | 2025-11-13 | 20 | 391 | 45 | 137 | 65 | 186 |
+| last720d | 2024-11-18 | 28 | 1108 | 66 | 557 | 204 | 558 |
 
 ## Distribution status
 
@@ -76,7 +76,7 @@ Reported by **103** distros on [repology.org](https://repology.org/project/influ
 | Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `2.10.0` | 🪦 legacy |
+| Homebrew | `3.12.2` | ✅ latest |
 | Nix unstable | `1.12.2` | ⚠️ outdated |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:45:44Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:51:19Z._
