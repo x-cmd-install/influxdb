@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 7 | 26 | 11 | 2 | 8 | 2 |
-| last60d | 2026-09-12 | 7 | 61 | 20 | 18 | 15 | 27 |
-| 90d | 2026-08-13 | 13 | 72 | 25 | 23 | 29 | 28 |
-| last180d | 2026-05-15 | 14 | 146 | 32 | 40 | 38 | 82 |
-| 360d | 2025-11-16 | 20 | 396 | 46 | 137 | 64 | 186 |
-| last720d | 2024-11-21 | 28 | 1107 | 67 | 555 | 201 | 554 |
+| 30d | 2026-10-13 | 7 | 26 | 11 | 2 | 7 | 2 |
+| last60d | 2026-09-13 | 7 | 61 | 20 | 18 | 15 | 27 |
+| 90d | 2026-08-14 | 13 | 71 | 25 | 23 | 28 | 28 |
+| last180d | 2026-05-16 | 14 | 146 | 32 | 40 | 38 | 82 |
+| 360d | 2025-11-17 | 20 | 396 | 46 | 137 | 64 | 186 |
+| last720d | 2024-11-22 | 28 | 1104 | 67 | 548 | 201 | 554 |
 
 ## Distribution status
 
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:54:49Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:13:02Z._
