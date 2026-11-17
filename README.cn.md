@@ -26,12 +26,12 @@ x install influxdb
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.2 / 10**
+总评分: **6.1 / 10**
 
 评分最低的几项:
 
-- **Maintained** (4/10) — 4 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Maintained** (3/10) — 2 commit(s) and 2 issue activity found in the last 90 days -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -47,39 +47,22 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,814 · **Fork**: 3,823 · **开放 issue**: 14,291 · **贡献者**: 536
+- **Star**: 31,815 · **Fork**: 3,825 · **开放 issue**: 14,291 · **贡献者**: 536
 
 ## 累计统计
 
-- **发布数**: 114 · **已合并 PR**: 11159 · **开放 PR**: 106 · **已关闭 issue**: 12219 · **开放 issue**: 2072 · **提交数**: 49928
+- **发布数**: 114 · **已合并 PR**: 11162 · **开放 PR**: 104 · **已关闭 issue**: 12219 · **开放 issue**: 2072 · **提交数**: 49928
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 3 | 22 | 10 | 2 | 8 | 2 |
-| last60d | 2026-09-17 | 7 | 58 | 21 | 7 | 16 | 2 |
-| 90d | 2026-08-18 | 13 | 73 | 25 | 22 | 27 | 27 |
-| last180d | 2026-05-20 | 14 | 146 | 33 | 38 | 39 | 82 |
-| 360d | 2025-11-21 | 20 | 388 | 47 | 133 | 64 | 183 |
-| last720d | 2024-11-26 | 28 | 1104 | 68 | 547 | 202 | 552 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/influxdb) 上共有 **103** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**93** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `1.6.7~rc0` | ⚠️ outdated |
-| Debian 14 | `1.6.7~rc0` | ⚠️ outdated |
-| Debian 13 | `1.6.7~rc0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
-| Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `3.12.2` | ✅ latest |
-| Nix unstable | `1.12.2` | ⚠️ outdated |
-| Void | `1.8.3` | ⚠️ outdated |
-| openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
+| 30d | 2026-10-18 | 3 | 24 | 9 | 2 | 8 | 2 |
+| last60d | 2026-09-18 | 7 | 59 | 19 | 6 | 15 | 2 |
+| 90d | 2026-08-19 | 13 | 76 | 23 | 21 | 27 | 27 |
+| last180d | 2026-05-21 | 14 | 149 | 31 | 38 | 39 | 82 |
+| 360d | 2025-11-22 | 20 | 391 | 45 | 133 | 64 | 183 |
+| last720d | 2024-11-27 | 28 | 1104 | 66 | 547 | 201 | 551 |
 
 ## 改进这些数据
 
@@ -90,4 +73,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:35:49Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:34:22Z._
