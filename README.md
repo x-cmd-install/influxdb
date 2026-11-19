@@ -42,27 +42,44 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.11.8` (2026-11-02)
+- **Latest**: `v2.10.1` (2026-11-17)
 - **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 31,815 · **Forks**: 3,825 · **Open issues**: 14,291 · **Contributors**: 536
+- **Stars**: 31,822 · **Forks**: 3,828 · **Open issues**: 14,293 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 114 · **Merged PRs**: 11162 · **Open PRs**: 104 · **Closed issues**: 12219 · **Open issues**: 2072 · **Commits**: 49928
+- **Releases**: 115 · **Merged PRs**: 11164 · **Open PRs**: 104 · **Closed issues**: 12219 · **Open issues**: 2074 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 24 | 9 | 2 | 8 | 2 |
-| last60d | 2026-09-18 | 7 | 59 | 19 | 6 | 15 | 2 |
-| 90d | 2026-08-19 | 13 | 76 | 23 | 21 | 27 | 27 |
-| last180d | 2026-05-21 | 14 | 149 | 31 | 38 | 39 | 82 |
-| 360d | 2025-11-22 | 20 | 391 | 45 | 133 | 64 | 183 |
-| last720d | 2024-11-27 | 28 | 1104 | 66 | 547 | 201 | 551 |
+| 30d | 2026-10-20 | 4 | 23 | 9 | 1 | 10 | 2 |
+| last60d | 2026-09-20 | 8 | 61 | 19 | 6 | 15 | 2 |
+| 90d | 2026-08-21 | 14 | 75 | 23 | 21 | 29 | 27 |
+| last180d | 2026-05-23 | 15 | 150 | 31 | 38 | 41 | 82 |
+| 360d | 2025-11-24 | 21 | 392 | 45 | 132 | 66 | 183 |
+| last720d | 2024-11-29 | 29 | 1100 | 65 | 546 | 202 | 546 |
+
+## Distribution status
+
+Reported by **103** distros on [repology.org](https://repology.org/project/influxdb). **4** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.6.7~rc0` | ⚠️ outdated |
+| Debian 14 | `1.6.7~rc0` | ⚠️ outdated |
+| Debian 13 | `1.6.7~rc0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
+| Arch | `2.9.1` | ⚠️ outdated |
+| Homebrew | `3.12.2` | ✅ latest |
+| Nix unstable | `1.13.2` | 🪦 legacy |
+| Void | `1.8.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:34:22Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:58:59Z._
