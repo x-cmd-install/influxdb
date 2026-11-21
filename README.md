@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,830 · **Forks**: 3,831 · **Open issues**: 14,293 · **Contributors**: 536
+- **Stars**: 31,829 · **Forks**: 3,767 · **Open issues**: 14,294 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 11164 · **Open PRs**: 105 · **Closed issues**: 12219 · **Open issues**: 2074 · **Commits**: 49928
+- **Releases**: 115 · **Merged PRs**: 11166 · **Open PRs**: 105 · **Closed issues**: 12220 · **Open issues**: 2074 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 4 | 23 | 10 | 1 | 10 | 2 |
-| last60d | 2026-09-21 | 8 | 57 | 20 | 6 | 14 | 2 |
-| 90d | 2026-08-22 | 14 | 75 | 24 | 21 | 29 | 27 |
-| last180d | 2026-05-24 | 15 | 150 | 32 | 38 | 41 | 82 |
-| 360d | 2025-11-25 | 21 | 392 | 45 | 132 | 66 | 183 |
-| last720d | 2024-11-30 | 29 | 1100 | 66 | 546 | 202 | 544 |
+| 30d | 2026-10-22 | 4 | 22 | 10 | 2 | 10 | 2 |
+| last60d | 2026-09-22 | 8 | 57 | 20 | 7 | 13 | 2 |
+| 90d | 2026-08-23 | 14 | 77 | 24 | 22 | 29 | 27 |
+| last180d | 2026-05-25 | 15 | 152 | 32 | 39 | 41 | 82 |
+| 360d | 2025-11-26 | 21 | 394 | 45 | 133 | 66 | 183 |
+| last720d | 2024-12-01 | 29 | 1102 | 66 | 547 | 202 | 544 |
 
 ## Distribution status
 
-Reported by **103** distros on [repology.org](https://repology.org/project/influxdb). **4** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/influxdb). **4** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:01:58Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:26:55Z._
