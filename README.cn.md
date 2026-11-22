@@ -47,7 +47,7 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,829 · **Fork**: 3,767 · **开放 issue**: 14,294 · **贡献者**: 536
+- **Star**: 31,830 · **Fork**: 3,765 · **开放 issue**: 14,294 · **贡献者**: 536
 
 ## 累计统计
 
@@ -57,16 +57,16 @@ x install influxdb
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 4 | 22 | 10 | 2 | 10 | 2 |
-| last60d | 2026-09-22 | 8 | 57 | 20 | 7 | 13 | 2 |
-| 90d | 2026-08-23 | 14 | 77 | 24 | 22 | 29 | 27 |
-| last180d | 2026-05-25 | 15 | 152 | 32 | 39 | 41 | 82 |
-| 360d | 2025-11-26 | 21 | 394 | 45 | 133 | 66 | 183 |
-| last720d | 2024-12-01 | 29 | 1102 | 66 | 547 | 202 | 544 |
+| 30d | 2026-10-23 | 4 | 22 | 10 | 2 | 10 | 0 |
+| last60d | 2026-09-23 | 8 | 54 | 20 | 7 | 13 | 2 |
+| 90d | 2026-08-24 | 14 | 77 | 24 | 21 | 29 | 27 |
+| last180d | 2026-05-26 | 15 | 151 | 32 | 39 | 41 | 81 |
+| 360d | 2025-11-27 | 21 | 393 | 45 | 132 | 66 | 181 |
+| last720d | 2024-12-02 | 29 | 1102 | 66 | 545 | 201 | 544 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/influxdb) 上共有 **102** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**91** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/influxdb) 上共有 **102** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**93** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -76,7 +76,7 @@ x install influxdb
 | Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `3.12.2` | ✅ latest |
+| Homebrew | `3.12.3` | ✅ latest |
 | Nix unstable | `1.13.2` | 🪦 legacy |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
@@ -90,4 +90,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261121.yml` · 2026-11-21T08:26:56Z._
+_数据快照: `data/card/261122.yml` · 2026-11-22T07:33:46Z._
