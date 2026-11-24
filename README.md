@@ -42,27 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.10.1` (2026-11-17)
+- **Latest**: `v3.11.10` (2026-11-23)
 - **Last commit**: 2026-10-22
 
 ## Popularity
 
-- **Stars**: 31,833 · **Forks**: 3,766 · **Open issues**: 14,295 · **Contributors**: 536
+- **Stars**: 31,831 · **Forks**: 3,765 · **Open issues**: 14,296 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 11166 · **Open PRs**: 105 · **Closed issues**: 12220 · **Open issues**: 2075 · **Commits**: 49928
+- **Releases**: 117 · **Merged PRs**: 11167 · **Open PRs**: 105 · **Closed issues**: 12221 · **Open issues**: 2075 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 4 | 22 | 10 | 2 | 11 | 0 |
-| last60d | 2026-09-24 | 8 | 53 | 20 | 6 | 14 | 2 |
-| 90d | 2026-08-25 | 14 | 77 | 23 | 21 | 29 | 27 |
-| last180d | 2026-05-27 | 15 | 151 | 32 | 38 | 41 | 81 |
-| 360d | 2025-11-28 | 21 | 393 | 45 | 132 | 67 | 181 |
-| last720d | 2024-12-03 | 28 | 1100 | 66 | 541 | 202 | 543 |
+| 30d | 2026-10-25 | 6 | 23 | 10 | 2 | 12 | 0 |
+| last60d | 2026-09-25 | 10 | 48 | 20 | 6 | 15 | 2 |
+| 90d | 2026-08-26 | 16 | 78 | 23 | 20 | 23 | 27 |
+| last180d | 2026-05-28 | 17 | 149 | 32 | 38 | 42 | 81 |
+| 360d | 2025-11-29 | 23 | 394 | 45 | 133 | 67 | 181 |
+| last720d | 2024-12-04 | 30 | 1099 | 66 | 540 | 202 | 540 |
 
 ## Distribution status
 
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:43:37Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:44:09Z._
