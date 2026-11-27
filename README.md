@@ -47,22 +47,39 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,835 · **Forks**: 3,766 · **Open issues**: 14,297 · **Contributors**: 536
+- **Stars**: 31,836 · **Forks**: 3,767 · **Open issues**: 14,298 · **Contributors**: 536
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 11168 · **Open PRs**: 107 · **Closed issues**: 12222 · **Open issues**: 2075 · **Commits**: 49928
+- **Releases**: 117 · **Merged PRs**: 11168 · **Open PRs**: 107 · **Closed issues**: 12222 · **Open issues**: 2076 · **Commits**: 49928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 6 | 22 | 12 | 2 | 11 | 0 |
-| last60d | 2026-09-27 | 10 | 49 | 22 | 7 | 15 | 2 |
-| 90d | 2026-08-28 | 16 | 77 | 24 | 20 | 23 | 27 |
-| last180d | 2026-05-30 | 17 | 147 | 34 | 39 | 42 | 81 |
-| 360d | 2025-12-01 | 23 | 393 | 47 | 133 | 67 | 181 |
-| last720d | 2024-12-06 | 30 | 1095 | 68 | 540 | 200 | 537 |
+| 30d | 2026-10-28 | 6 | 22 | 11 | 2 | 11 | 0 |
+| last60d | 2026-09-28 | 10 | 49 | 22 | 7 | 16 | 2 |
+| 90d | 2026-08-29 | 16 | 77 | 24 | 20 | 24 | 27 |
+| last180d | 2026-05-31 | 17 | 147 | 34 | 39 | 43 | 81 |
+| 360d | 2025-12-02 | 23 | 392 | 47 | 131 | 67 | 181 |
+| last720d | 2024-12-07 | 30 | 1095 | 68 | 540 | 201 | 535 |
+
+## Distribution status
+
+Reported by **101** distros on [repology.org](https://repology.org/project/influxdb). **2** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `1.6.7~rc0` | ⚠️ outdated |
+| Debian 14 | `1.6.7~rc0` | ⚠️ outdated |
+| Debian 13 | `1.6.7~rc0` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
+| Arch | `2.9.1` | ⚠️ outdated |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `1.13.2` | 🪦 legacy |
+| Void | `1.8.3` | ⚠️ outdated |
+| openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:02:44Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:10:56Z._
