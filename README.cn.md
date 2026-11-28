@@ -47,7 +47,7 @@ x install influxdb
 
 ## 流行度
 
-- **Star**: 31,836 · **Fork**: 3,767 · **开放 issue**: 14,298 · **贡献者**: 536
+- **Star**: 31,833 · **Fork**: 3,763 · **开放 issue**: 14,298 · **贡献者**: 536
 
 ## 累计统计
 
@@ -57,16 +57,16 @@ x install influxdb
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 6 | 22 | 11 | 2 | 11 | 0 |
-| last60d | 2026-09-28 | 10 | 49 | 22 | 7 | 16 | 2 |
-| 90d | 2026-08-29 | 16 | 77 | 24 | 20 | 24 | 27 |
-| last180d | 2026-05-31 | 17 | 147 | 34 | 39 | 43 | 81 |
-| 360d | 2025-12-02 | 23 | 392 | 47 | 131 | 67 | 181 |
-| last720d | 2024-12-07 | 30 | 1095 | 68 | 540 | 201 | 535 |
+| 30d | 2026-10-29 | 6 | 18 | 11 | 2 | 11 | 0 |
+| last60d | 2026-09-29 | 10 | 49 | 22 | 7 | 16 | 2 |
+| 90d | 2026-08-30 | 16 | 77 | 24 | 20 | 24 | 27 |
+| last180d | 2026-06-01 | 17 | 147 | 34 | 39 | 43 | 81 |
+| 360d | 2025-12-03 | 23 | 392 | 46 | 131 | 67 | 181 |
+| last720d | 2024-12-08 | 30 | 1095 | 68 | 539 | 201 | 535 |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/influxdb) 上共有 **101** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**92** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/influxdb) 上共有 **101** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**91** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -76,7 +76,7 @@ x install influxdb
 | Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `3.12.3` | ✅ latest |
 | Nix unstable | `1.13.2` | 🪦 legacy |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
@@ -90,4 +90,4 @@ influxdb 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T10:10:57Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:47:28Z._

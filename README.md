@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 31,836 · **Forks**: 3,767 · **Open issues**: 14,298 · **Contributors**: 536
+- **Stars**: 31,833 · **Forks**: 3,763 · **Open issues**: 14,298 · **Contributors**: 536
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 6 | 22 | 11 | 2 | 11 | 0 |
-| last60d | 2026-09-28 | 10 | 49 | 22 | 7 | 16 | 2 |
-| 90d | 2026-08-29 | 16 | 77 | 24 | 20 | 24 | 27 |
-| last180d | 2026-05-31 | 17 | 147 | 34 | 39 | 43 | 81 |
-| 360d | 2025-12-02 | 23 | 392 | 47 | 131 | 67 | 181 |
-| last720d | 2024-12-07 | 30 | 1095 | 68 | 540 | 201 | 535 |
+| 30d | 2026-10-29 | 6 | 18 | 11 | 2 | 11 | 0 |
+| last60d | 2026-09-29 | 10 | 49 | 22 | 7 | 16 | 2 |
+| 90d | 2026-08-30 | 16 | 77 | 24 | 20 | 24 | 27 |
+| last180d | 2026-06-01 | 17 | 147 | 34 | 39 | 43 | 81 |
+| 360d | 2025-12-03 | 23 | 392 | 46 | 131 | 67 | 181 |
+| last720d | 2024-12-08 | 30 | 1095 | 68 | 539 | 201 | 535 |
 
 ## Distribution status
 
-Reported by **101** distros on [repology.org](https://repology.org/project/influxdb). **2** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
+Reported by **101** distros on [repology.org](https://repology.org/project/influxdb). **3** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -76,7 +76,7 @@ Reported by **101** distros on [repology.org](https://repology.org/project/influ
 | Ubuntu 26.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.6.7~rc0` | ⚠️ outdated |
 | Arch | `2.9.1` | ⚠️ outdated |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `3.12.3` | ✅ latest |
 | Nix unstable | `1.13.2` | 🪦 legacy |
 | Void | `1.8.3` | ⚠️ outdated |
 | openSUSE Tumbleweed | `1.11.8` | ⚠️ outdated |
@@ -90,4 +90,4 @@ Install metadata for influxdb lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:10:56Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:47:28Z._
